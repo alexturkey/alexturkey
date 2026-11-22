@@ -1,8 +1,10 @@
 # Ali Haydar Öztürk
-**Speech AI + Agentic Systems Engineer** · Türkiye
+**Speech AI + Agentic Systems Developer** · Türkiye
 
 I build Turkish speech AI that runs locally on a 4 GB GPU, and the self-auditing multi-agent system that develops and maintains it.
 *Türkçe ses yapay zekâsı ve çok ajanlı sistemler; 4 GB kartta, yerel, açık kaynak.*
+
+Self-taught developer
 
 ### Selected work
 - **[Turkish voice design](https://github.com/alexturkey/voxcpm2-turkce-ses-tasarimi)** · VoxCPM2 on a GTX 1050 Ti, 2.8 GB peak VRAM, Apache-2.0, 65★ / 10 forks
